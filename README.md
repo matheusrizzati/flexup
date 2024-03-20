@@ -1,3 +1,5 @@
+USAR SOMENTE PRO FRONTEND PELO AMOR DE DEUS! NAO DA PUSH DE BACKEND AQUI. TEM OUTROS REP
+
 no console da git clone https://github.com/matheusrizzati/flexup.git
 e depois um git pull
 
